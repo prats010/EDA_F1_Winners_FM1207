@@ -207,8 +207,8 @@ jupyter notebook EDA_F1Winners.ipynb
 ---
 
 ## Author
-[Your Name]  
-Roll No: [Your Roll Number]  
+[Prathamesh Anil Bhamare]  
+Roll No: [FM1207]  
 Course: MSc Computer Science  
 Date: October 21, 2025
 
@@ -222,4 +222,4 @@ This project is for educational purposes.
 ## Acknowledgments
 - Data source: Formula 1 historical race results
 - Analysis period: 1950-2024
-- Dataset includes all F1 World Championship races
+- Dataset includes all F1 World Championship races till 2024.
